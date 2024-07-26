@@ -7,3 +7,12 @@
 {
     width: 4%;
 }
+.navbar{
+    background-color: bisque;
+}
+.nav-link
+{
+    color: white;
+    font-weight: bold;
+    font-size: 18px;
+}
