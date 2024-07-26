@@ -5,7 +5,7 @@
 }
 .navbar-brand
 {
-    width: 4%;
+    width: 6%;
 }
 .navbar{
     background-color: bisque;
@@ -15,4 +15,17 @@
     color: white;
     font-weight: bold;
     font-size: 18px;
+}
+.bgimg
+{
+    background-image: url('fruit.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 217vh;
+    height: 100vh;
+}
+.btn
+{
+    width: 10%;
 }
