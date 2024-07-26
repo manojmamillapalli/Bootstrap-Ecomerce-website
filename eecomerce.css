@@ -36,3 +36,8 @@
     font-weight: bold;
     font-style: italic;
 }
+.d-block
+{
+    aspect-ratio: 3/2;
+    width: 100%;
+}
