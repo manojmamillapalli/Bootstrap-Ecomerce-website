@@ -1,23 +1,23 @@
-*
-{
+* {
     box-sizing: border-box;
     margin: 0;
 }
-.navbar-brand
-{
+
+.navbar-brand {
     width: 6%;
 }
-.navbar{
+
+.navbar {
     background-color: bisque;
 }
-.nav-link
-{
+
+.nav-link {
     color: white;
     font-weight: bold;
     font-size: 18px;
 }
-.bgimg
-{
+
+.bgimg {
     background-image: url('fruit.jpeg');
     background-repeat: no-repeat;
     background-size: cover;
@@ -25,7 +25,14 @@
     width: 217vh;
     height: 100vh;
 }
-.btn
-{
+
+.btn {
     width: 10%;
+}
+
+.apara {
+    color: rgb(167, 160, 160);
+    font-size: 20px;
+    font-weight: bold;
+    font-style: italic;
 }
