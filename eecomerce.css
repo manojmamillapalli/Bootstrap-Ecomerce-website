@@ -48,3 +48,17 @@ a.nav-link{
     width: 100%;
 }
 /* products */
+.row
+{
+    margin: 3px;
+    margin-left: 5px;
+}
+.card-img-top
+{
+    aspect-ratio: 4/4;
+    width: 100%;
+}
+.card{
+    margin: 1%;
+    
+}
