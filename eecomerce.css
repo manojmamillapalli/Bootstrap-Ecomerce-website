@@ -1,6 +1,7 @@
 * {
     box-sizing: border-box;
     margin: 0;
+    /* border: 1px solid red; */
 }
 
 .navbar-brand {
@@ -26,7 +27,7 @@ a.nav-link{
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
-    width: 216vh;
+    width: 100vw;
     height: 80vh;
 }
 
@@ -46,3 +47,4 @@ a.nav-link{
     aspect-ratio: 3/2;
     width: 100%;
 }
+/* products */
