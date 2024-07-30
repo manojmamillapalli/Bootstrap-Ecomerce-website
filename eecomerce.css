@@ -62,3 +62,28 @@ a.nav-link{
     margin: 1%;
     
 }
+.fbimg
+{
+    background-color: black;
+}
+.fhead
+{
+    color: white;
+    text-decoration: underlinesolid 1px;
+}
+.ffour h6{
+    color: white;
+}
+.ficons
+{
+    text-align: center;
+    padding: 1%;
+}
+.ficons{
+    color: yellow;
+    font-size: 35px;
+    padding: 1%;
+}
+.ficons i:hover{
+    color: red;
+}
